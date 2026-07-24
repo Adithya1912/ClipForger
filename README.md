@@ -1,14 +1,13 @@
 # ClipForger
 
-![Status](https://img.shields.io/badge/status-portfolio_preview-blue)
+![Status](https://img.shields.io/badge/status-alpha-orange)
 ![Python](https://img.shields.io/badge/python-3.x-green)
 ![AI](https://img.shields.io/badge/AI-enabled-purple)
 ![Docker](https://img.shields.io/badge/docker-supported-blue)
-![License](https://img.shields.io/badge/license-private-lightgrey)
+[![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
 
 ClipForger is an AI-assisted video processing platform that converts raw video into caption-ready media through an automated workflow.
 
-This repository is a public portfolio preview. Production source code, model orchestration details, private configuration, and deployment internals are intentionally excluded.
 
 ---
 
@@ -22,7 +21,7 @@ This repository is a public portfolio preview. Production source code, model orc
 
 ---
 
-## What I Built
+## Engineering Highlights
 
 - Designed the end-to-end media processing workflow
 - Built backend services for video intake and job execution
@@ -104,15 +103,4 @@ flowchart LR
 ## Repository Note
 
 This public repository is intended for resume and portfolio review only.
-
-It does not include:
-
-- Production source code
-- Model routing logic
-- Prompting or refinement strategy
-- Infrastructure configuration
-- Private datasets
-- Secrets or environment files
-- Internal worker implementation details
-
 For a deeper technical walkthrough, I can discuss architecture, tradeoffs, and implementation decisions in an interview setting.
